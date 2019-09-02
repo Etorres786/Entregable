@@ -1,0 +1,270 @@
+.footer1{
+    font-size: 15px;
+    color: #fff;
+    margin-top:10%;
+    width: 100%;
+    height: 180px;
+    background-color:#C87A1B;
+    
+}
+.FooterInicio{
+    margin-top: 200px !important;
+}
+#img1{
+    width: 100%;
+    height: 200px;
+}
+
+#img2{
+    width: 15%;
+    height: 200px;
+    margin-top:-16.5%;
+    margin-left: 1%;
+}
+
+#titulogif{
+    width: 25%;
+    height: 200px;
+    margin-top:-15%;
+    margin-left: 16%;
+}
+
+.tituloadmin{
+    font-size: 50px;
+}
+
+.logosfooter{
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+}
+.h2registro{
+    margin-left: 70% !important;
+    margin-top: -3.7% !important;
+}
+#botregproducto, #botreginventario, #botregpedidos, #botregempleado, #botregcliente, #botregproveedor{
+   margin-left: 94% !important;
+   margin-top: -4% !important;
+}
+.margennav{
+    margin-top: -20px;
+}
+.listafooter{
+    list-style:none;
+    margin-top:3px;
+}
+
+.footerderechos{
+    margin-top: 140px;
+    font-size:20px;
+}
+
+.paginacion{
+    text-align:center;
+}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover{
+    color: #fff !important;
+    background-color: #eea236 !important;
+}
+
+.lista{
+    color: black;
+}
+.titulomenu{
+    color: #C87A1B;
+    font-family: Cooper Black;
+}
+.tituloproductos{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.carouselproductos{
+    margin-left:0px;
+}
+.btn{
+    background-color:#b3b3b3;
+    margin-right: 6px;
+    color:#fff;
+}
+.imagenesProductos{
+    width: 150px;
+    height: auto;
+}
+
+.tituloProductos{
+    color: #C87A1B;
+    text-align:center;
+    margin-bottom: 50px;
+    font-size: 50px;
+    font-family: Cooper Black;
+}
+.paginacion {
+    text-align: center;
+}
+.aside{
+    border-right:solid #C87A1B 1px; 
+    margin-top: 90px;
+}
+.aside2{
+    padding-bottom: 10px;
+    margin-top: -500px;
+    margin-left: 70%;
+}
+#myCarousel{
+    width: 100%;
+    text-align: center;
+}
+.img-carousel{
+    width: 100%;
+    height: 500px !important;
+}
+.carousel-top{
+    margin-top: -20px;
+    width: 100% !important;
+}
+.servicios{
+    font-size: 19px;
+    text-align: justify;
+}
+.listaServicios{
+    margin-left: -20px;
+}
+
+#mvu{
+    text-align: center;
+}
+.navproductos{
+    margin-left: -300px;
+    margin-right: 100px;
+}
+
+.pedidospendientes{
+    margin-left: 50px;
+}
+.paginacion{
+    margin-top:40px; 
+
+}
+
+.titulopedidos{
+    text-align: center;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+/*ESTILOS LOGIN*/
+
+.mision{
+    text-align:center;
+    font-size: 20px;
+}
+.empresa{
+    margin-top: 90px !important;
+}
+.morris-hover{
+    position:absolute;z-index:1000
+
+}
+.morris-hover.morris-default-style{
+    border-radius:10px;padding:6px;color:#666;background:rgba(255,255,255,0.8);border:solid 2px rgba(230,230,230,0.8);font-family:sans-serif;font-size:12px;text-align:center
+
+}
+.morris-hover.morris-default-style .morris-hover-row-label{
+    font-weight:bold;margin:0.25em 0
+
+}
+.morris-hover.morris-default-style .morris-hover-point{
+    white-space:nowrap;margin:0.1em 0
+
+}
+.navproductoscliente{
+    width:100px;
+}
+.ventanaeliminar{
+    width: 300px;
+    height: 230px
+}
+#vendido{
+    margin-left: 150px;
+}
+.espacio{
+
+    padding: 5px 5px !important;
+}
+.informes{
+    margin-right:200px;
+}
+#t{
+    margin-left: 950px !important;
+    margin-top: -500px !important;
+}
+.informes{
+    font-size: 30px !important;
+
+}   
+
+
+#new{
+    margin-right:200px;
+}
+.botonregistro{
+    margin-top: 10px !important;
+    margin-right: -25px !important;
+}
+.btn-venta{
+    margin-top: 50px !important; 
+}
+.tablasdetalles{
+    width: 80% !important;
+    margin-left: 54px!important;
+}
+.inputregistro{
+    width: 80%;
+}
+
+#informepro{
+    width: 500px; 
+}
+.footer1{
+    margin-top: 250px;
+    bottom: 0;
+
+
+}
+
+.Total{
+    background-color:#C87A1B;
+    width: 250px;
+    text-align: center;
+    color: white;
+    margin-left: 893px;
+    border-radius: 16px 16px 16px 16px;
+    -moz-border-radius: 16px 16px 16px 16px;
+    -webkit-border-radius: 16px 16px 16px 16px;
+    border: 0px solid #000000;
+}
+.TotalPedido{
+    margin-left: 970px;
+}
+.btn-volver{
+    background-color:#C87A1B !important;
+}
+
+.TituloDetallesPedido{
+    margin-top: 70px;
+    background-color:#C87A1B;
+    color: white;
+    height: 100px;
+    border-radius: 16px 16px 16px 16px;
+    -moz-border-radius: 16px 16px 16px 16px;
+    -webkit-border-radius: 16px 16px 16px 16px;
+    border: 0px solid #000000;
+
+}
+.tit{
+    font-size: 60px;
+}
+.btn-facura{
+    height: 55px;
+    width: 60px;
+}
